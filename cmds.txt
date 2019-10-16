@@ -1,1 +1,2 @@
 hping3 -S --flood -V 10.29.41.212
+notify-send 'Hey Assault Sethu' "`var=``fortune`"
